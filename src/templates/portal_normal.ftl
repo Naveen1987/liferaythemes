@@ -65,7 +65,7 @@
         </li>
        <!--This Unità Operative -->
         <li>
-          <a href="#">Unità Operative</a>
+          <a style="cursor: pointer;">Unità Operative</a>
           <ul class="nav-dropdown">
            <li><a  href="#">Farmacia OspedalieraIs</a></li>
       <li><a  href="#">Staff Sistemi Informativi</a></li>
@@ -84,7 +84,7 @@
         </li>
         <!--This is Procedure AO-->
         <li>
-          <a href="#">Procedure AO</a>
+          <a style="cursor: pointer;">Procedure AO</a>
           <ul class="nav-dropdown">
            <li><a  href="#">Ufficio Qualità e Accreditamento</a></li>
       <li><a  href="#">Farmacia</a></li>
