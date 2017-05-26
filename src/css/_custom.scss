@@ -275,20 +275,14 @@ body {
 
 
 //Code By Naveen for navigation menu
-// Navigation Variables
-$content-width: 90%;
-$breakpoint: 800px;
-$nav-height: 35px;
-$nav-background:  #002266;
-$nav-font-color: #ffffff;
-$link-hover-color: #2581DC;
 
 // Outer navigation wrapper
 .navigation {
-
+	
   height: $nav-height;
   background: $nav-background;
   width:$content-width;
+  //font-weight:bold;
 }
 
 // Logo and branding
@@ -336,7 +330,7 @@ nav {
         }
         &:not(:only-child):after {
           padding-left: 4px;
-          font-family: Arial Unicode MS, Lucida Sans Unicode, sans-serif;
+          //font-family: Arial Unicode MS, Lucida Sans Unicode, sans-serif;
           content: '\25be';
         }
       } // Dropdown list

@@ -61,40 +61,44 @@
 
       <ul class="nav-list">
         <li>
-          <a href="/web/internal-intranet">Welcome</a>
+          <a href="/group/internal-intranet/welcome">Welcome</a>
         </li>
        <!--This Unità Operative -->
         <li>
-          <a style="cursor: pointer;">Unità Operative</a>
-          <ul class="nav-dropdown">
-           <li><a  href="#">Farmacia OspedalieraIs</a></li>
-      <li><a  href="#">Staff Sistemi Informativi</a></li>
-      <li><a  href="#">Sviluppo e Formazione</a></li>
-	  <li><a  href="#">Controllo di Gestione</a></li>
-      <li><a  href="#">Ufficio Relazioni con il pubblico</a></li>
-      <li><a  href="#">Servizio Risorse Umane</a></li>
-	  <li><a  href="#">Ufficio Valutazione</a></li>
-      <li><a  href="#">Flussi Informativi Sanitari</a></li>
-      <li><a  href="#">Laboratorio Analisi Magenta</a></li>
-	  <li><a  href="#">Servizio Acquisti e Appalti</a></li>
-      <li><a  href="#">Servizio Dietietico</a></li>
-      <li><a  href="#">Affari Generali e Legali</a></li>
-	  <li><a  href="#">Comitato Scientifico</a></li>
+          <a style="cursor: pointer;">Unità Operative</a> 
+  <ul class="nav-dropdown">
+      <li><a  href="/group/farmacia_ospedalieraIs/welcome"  target="_blank">Farmacia OspedalieraIs</a></li>
+      <li><a  href="/group/staff_sistemi_snformativi/welcome" target="_blank">Staff Sistemi Informativi</a></li>
+      <li><a  href="/group/sviluppo_e_formazione/welcome" target="_blank">Sviluppo e Formazione</a></li>
+	    <li><a  href="/group/controllo_di_gestione/welcome" target="_blank">Controllo di Gestione</a></li>
+      <li><a  href="/group/ufficio_relazioni_con_il_pubblico/welcome" target="_blank">Ufficio Relazioni con il pubblico</a></li>
+      <li><a  href="/group/servizio_risorse_umane/welcome" target="_blank">Servizio Risorse Umane</a></li>
+	    <li><a  href="/group/ufficio_valutazione/welcome" target="_blank">Ufficio Valutazione</a></li>
+      <li><a  href="/group/flussi_informativi_sanitari/welcome" target="_blank">Flussi Informativi Sanitari</a></li>
+      <li><a  href="/group/laboratorio_analisi_magenta/welcome" target="_blank">Laboratorio Analisi Magenta</a></li>
+	    <li><a  href="/group/servizio_acquisti_e_appalti/welcome" target="_blank">Servizio Acquisti e Appalti</a></li>
+      <li><a  href="/group/servizio_dietietico/welcome" target="_blank">Servizio Dietietico</a></li>
+      <li><a  href="/group/affari_generali_e_legali/welcome" target="_blank">Affari Generali e Legali</a></li>
+	    <li><a  href="/group/comitato_scientifico/welcome" target="_blank">Comitato Scientifico</a></li>
           </ul>
         </li>
         <!--This is Procedure AO-->
         <li>
           <a style="cursor: pointer;">Procedure AO</a>
           <ul class="nav-dropdown">
-           <li><a  href="#">Ufficio Qualità e Accreditamento</a></li>
-      <li><a  href="#">Farmacia</a></li>
-      <li><a  href="#">SIECIO/CIO</a></li>
-	  <li><a  href="#">SPP/MC</a></li>
-	  <li><a  href="#">Direzioni Mediche</a></li>
-	  <li><a  href="#">SITRA</a></li>
-	  <li><a  href="#">Comitati/Gruppi di Miglioramento</a></li>
-	  <li><a  href="#">Accrediatmento e Controlli</a></li>
-	  <li><a  href="#">Cartella Clinica</a></li>
+  <li><a href="/group/ufficio_qualita_e_accreditamento/welcome" target="_blank">Ufficio Qualità e Accreditamento</a></li>
+	<li><a href="/group/farmacia/welcome"  target="_blank">Farmacia</a></li>
+	<li><a href="/group/siecio_cio/welcome" target="_blank">SIECIO/CIO</a></li>
+	<li><a href="/group/spp_mc/welcome" target="_blank">SPP/MC</a></li>
+	<li><a href="/group/direzioni_mediche/welcome" target="_blank">Direzioni Mediche</a></li>
+	<li><a href="/group/sitra/welcome" target="_blank">SITRA</a></li>
+	<li><a href="/group/hrm/welcome" target="_blank">HRM</a></li>
+	<li><a href="/group/comitati_gruppi_di_miglioramento/welcome" target="_blank">Comitati/Gruppi di Miglioramento</a></li>
+	<li><a href="/group/rapporti_e_dati/welcome" target="_blank">Rapporti e Dati</a></li>
+	<li><a href="/group/accrediatmento_e_controlli/welcome" target="_blank">Accrediatmento e Controlli</a></li>
+	<li><a href="/group/cartella_clinica/welcome" target="_blank">Cartella Clinica</a></li>
+
+
           </ul>
         </li>
 
